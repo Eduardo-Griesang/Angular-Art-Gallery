@@ -17,12 +17,22 @@ h2{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 1.5em;
     padding-top: 0.7rem;
+    text-decoration: underline;
 }
 
 p{
     color: rgb(219, 227, 235);
     font-size: 1.2em;
-    padding-top: 0.3rem;
-    width: 60%;
+    padding-top: 0.8rem;
+    width: 70%;
     line-height: 1.1em;
+}
+
+@media screen and (max-width:1000px) {
+    img{
+        width: 100%;
+    }
+    p{
+        width: 100%;
+    }
 }

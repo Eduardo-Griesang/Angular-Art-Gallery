@@ -17,3 +17,27 @@
     gap: 1em;
     width: 45%;
 }
+
+@media screen and (max-width:1000px) {
+    .artigos{
+        flex-direction: column;
+    }
+    .artigos-main{
+        width: 80%;
+    }
+    .artigos-other{
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .artigos{
+        flex-direction: column;
+    }
+    .artigos-main{
+        width: 98%;
+    }
+    .artigos-other{
+        width: 98%;
+    }
+}
