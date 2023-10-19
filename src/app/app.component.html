@@ -1,2 +1,4 @@
-<app-home></app-home>
-<router-outlet></router-outlet>
+<header>
+    <app-menu-bar></app-menu-bar>
+</header>
+<router-outlet (activate)="onActive()"></router-outlet>
