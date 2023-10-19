@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
+
+img{
+    width: 20%;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5em;
+    padding-top: 0.7rem;
+}
+
+p{
+    color: rgb(219, 227, 235);
+    font-size: 1.2em;
+    padding-top: 0.3rem;
+    width: 90%;
+    line-height: 1.2em;
+}

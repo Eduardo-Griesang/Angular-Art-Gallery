@@ -1,0 +1,19 @@
+.artigos{
+    background: #111111;
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+}
+
+.artigos-main{
+    width: 45%;
+}
+
+.artigos-other{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    width: 45%;
+}

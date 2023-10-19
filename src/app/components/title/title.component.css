@@ -1,0 +1,29 @@
+h1{
+    background-color: #111111;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25vh;
+    height: 50vh;
+    text-align: center;
+}
+
+@media screen and (max-width: 1450px) {
+    h1{
+        font-size: 20vh;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    h1{
+        font-size: 15vh;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    h1{
+        font-size: 11vh;
+    }
+}
