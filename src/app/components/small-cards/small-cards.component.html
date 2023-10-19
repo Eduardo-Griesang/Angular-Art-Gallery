@@ -1,7 +1,7 @@
 <section class="container">
     <img src={{photoCover}} alt={{cardTitle}} />
     <div>
-        <a href="#">
+        <a [routerLink]="['content', Id]">
             <h2>{{cardTitle}}</h2>
             <p>{{cardDescription}}</p>
         </a>
