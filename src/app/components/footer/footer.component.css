@@ -25,3 +25,28 @@ a{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: none;
 }
+
+@media screen and (max-width:1090px) {
+    h3{
+        font-size: 1.7em
+    }
+    nav{
+        font-size: 1.2em;
+    }
+}
+
+@media screen and (max-width:768px) {
+    nav{
+        gap: 1.1em;
+    }
+    footer{
+        padding-bottom: 2em;
+    }
+}
+
+@media screen and (max-width:510px) {
+    footer{
+        flex-direction: column;
+        gap: 2em;
+    }
+}
