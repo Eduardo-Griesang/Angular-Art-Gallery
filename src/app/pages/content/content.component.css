@@ -10,9 +10,41 @@ img{
     width: 50vw;
 }
 
-p{
+div{
     color: aliceblue;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5em;
+    line-height: 1.2em;
     padding: 3em 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
     width: 50vw;
+}
+
+@media screen and (max-width:1000px) {
+    img{
+        width: 60vw;
+    }
+    div{
+        width: 60vw;
+    }
+}
+
+@media screen and (max-width:768px) {
+    img{
+        width: 70vw;
+    }
+    div{
+        width: 70vw;
+    }
+}
+
+@media screen and (max-width:425px) {
+    img{
+        width: 80vw;
+    }
+    div{
+        width: 80vw;
+    }
 }

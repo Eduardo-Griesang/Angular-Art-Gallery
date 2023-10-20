@@ -10,7 +10,8 @@ import { ArtData } from 'src/app/components/data/ArtData';
 export class ContentComponent implements OnInit {
   artPhoto:string = ""
   contentTitle:string = ""
-  contentDescription = ""
+  contentDescription:string = ""
+  contentArt:string = ""
   private id:string | null = "0"
 
   constructor(
@@ -31,6 +32,7 @@ export class ContentComponent implements OnInit {
     this.artPhoto = result[0].photo
     this.contentTitle = result[0].title
     this.contentDescription = result[0].description
+    this.contentArt = result[0].the_art
   }
 
 }
