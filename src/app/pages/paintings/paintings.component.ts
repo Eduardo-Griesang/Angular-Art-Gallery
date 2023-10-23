@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ArtData } from 'src/app/components/data/ArtData';
+import { ArtData } from 'src/app/data/ArtData';
 
 @Component({
   selector: 'app-paintings',

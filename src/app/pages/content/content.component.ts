@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { ArtData } from 'src/app/components/data/ArtData';
+import { ArtData } from 'src/app/data/ArtData';
 
 @Component({
   selector: 'app-content',

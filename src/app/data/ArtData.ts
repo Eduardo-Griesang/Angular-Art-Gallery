@@ -41,4 +41,18 @@ export const ArtData = [
         "description": "Hard objects become inexplicably limp in this bleak and infinite dreamscape, while metal attracts ants like rotting flesh. Mastering what he called “the usual paralyzing tricks of eye-fooling,” Dalí painted with “the most imperialist fury of precision,” he said, but only “to systematize confusion and thus to help discredit completely the world of reality.” It is the classic Surrealist ambition, yet some literal reality is included, too: the distant golden cliffs are the coast of Catalonia, Dalí’s home.",
         "the_art": "The well-known surrealist piece introduced the image of the soft melting pocket watch.[2] It epitomizes Dalí's theory of 'softness' and 'hardness', which was central to his thinking at the time. As Dawn Adès wrote, 'The soft watches are an unconscious symbol of the relativity of space and time, a Surrealist meditation on the collapse of our notions of a fixed cosmic order'."
     },
+    {
+        "id": "7",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_×_65.6_cm.jpg/407px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_×_65.6_cm.jpg",
+        "title": "Salvator Mundi",
+        "description": "Salvator Mundi is a painting attributed in whole or in part to the Italian High Renaissance artist Leonardo da Vinci, dated to c. 1499–1510. The painting was sold in 2017 for US$ 450,3 millions, making it the most valuable painting in the world",
+        "the_art": "The painting depicts Jesus Christ in an anachronistic blue Renaissance dress, making the sign of the cross with his right hand, while holding a transparent, non-refracting crystal orb in his left, signaling his role as Salvator Mundi and representing the 'celestial sphere' of the heavens."
+    },
+    {
+        "id": "8",
+        "photo": "https://collection.qagoma.qld.gov.au/system/files/styles/wide/private/object-images/2022.085_001.jpg?itok=ghsPTdQa",
+        "title": "Blue Cryptobiosis #02",
+        "description": "Christine Ay Tjoe’s painting ",
+        "the_art": ""
+    },
 ]
