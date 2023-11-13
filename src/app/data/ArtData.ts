@@ -1,7 +1,7 @@
 export const ArtData = [
     {
         "id": "1",
-        "photo": "https://lh3.googleusercontent.com/ci/ALr3YSFzPZ7rknazzBO19apvQccGdEg0EABjOm3i4a3D_Jt2L2oEJgYyQH5snpWJ727NnQIod_z03Q",
+        "photo": "https://aadsh2is.cdn.imgeng.in/optimized/cache/data/product_images/VG485-1000x1000.jpg",
         "title": "The Starry Night",
         "description": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village.",
         "the_art": "Van Gogh depicted the view at different times of the day and under various weather conditions, such as the sunrise, moonrise, sunshine-filled days, overcast days, windy days, and one day with rain."
